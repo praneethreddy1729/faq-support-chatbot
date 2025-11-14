@@ -1,0 +1,160 @@
+FREQUENTLY ASKED QUESTIONS - HR PORTAL
+
+TIME OFF AND LEAVE POLICIES
+
+Q: How much PTO do I get per year?
+A: Full-time employees receive 15 days of paid time off in their first year, increasing to 20 days after two years of service, and 25 days after five years. PTO accrues monthly based on your tenure level. Part-time employees receive prorated PTO based on their scheduled hours.
+
+Q: What is the process for requesting time off?
+A: Log into the HR portal and navigate to the Time Off section. Click "Request Time Off" and select your dates. Your manager will be notified automatically and typically responds within 48 hours. We recommend submitting requests at least two weeks in advance for better approval odds, though emergency requests are handled case-by-case.
+
+Q: Can I carry over unused PTO to the next year?
+A: You can carry over up to 5 days of unused PTO to the following calendar year. Any PTO beyond 5 days will be forfeited, so we encourage employees to use their earned time off. Carried-over days must be used by March 31st of the following year.
+
+Q: What is the sick leave policy?
+A: All employees receive 10 sick days per year, separate from PTO. Sick leave is meant for personal illness, medical appointments, or caring for immediate family members who are ill. Unused sick days do not roll over and cannot be cashed out.
+
+Q: Do we have parental leave?
+A: Yes, we offer 12 weeks of paid parental leave for primary caregivers and 6 weeks for secondary caregivers. This applies to birth, adoption, or foster placement. Leave must be taken within the first year of the child's arrival. Additional unpaid leave may be available under FMLA.
+
+BENEFITS AND COMPENSATION
+
+Q: When do health insurance benefits start?
+A: Health insurance coverage begins on the first day of the month following your start date. If you start on the 1st, coverage begins immediately. You have 30 days from your hire date to enroll. Missing this window means you'll need to wait until the next open enrollment period unless you have a qualifying life event.
+
+Q: What health insurance plans are available?
+A: We offer three medical plan options through BlueCross: a high-deductible plan with HSA, a PPO plan, and an HMO plan. All plans include prescription drug coverage, dental, and vision. The company covers 80% of the employee premium and 60% for dependents. Plan details and costs are available in the Benefits Guide on the portal.
+
+Q: How does the 401k matching work?
+A: The company matches 100% of your contributions up to 4% of your salary. For example, if you earn $50,000 and contribute 4% ($2,000), we'll contribute an additional $2,000. Matching funds vest over four years at 25% per year. You're eligible to enroll in the 401k plan immediately upon hire.
+
+Q: What other benefits do we get?
+A: Beyond health insurance and 401k, we provide life insurance at 2x your annual salary, short-term and long-term disability coverage, an employee assistance program for mental health support, a wellness stipend of $500 per year for gym memberships or fitness equipment, and commuter benefits for parking or public transit.
+
+Q: How do performance bonuses work?
+A: Eligible employees can earn annual performance bonuses ranging from 0% to 20% of base salary, depending on individual performance ratings and company goal achievement. Bonuses are typically paid in March following the performance year. You must be employed at the time of payout to receive the bonus.
+
+PLATFORM FEATURES AND USAGE
+
+Q: How do I clock in and out for time tracking?
+A: Open the HR portal or mobile app and click the Clock In button at the start of your shift. The system uses your device location to verify you're at an approved work site. Click Clock Out when finished. If you forget, you can submit a manual time entry correction through the Timesheets section, which requires manager approval.
+
+Q: How do I submit an expense report?
+A: Go to the Expenses tab, click New Expense Report, and enter each expense with the date, amount, category, and business purpose. Attach receipt photos or PDFs for any expense over $25. Submit the report when complete. Reimbursements are processed within 10 business days and included in your next paycheck.
+
+Q: What expenses are reimbursable?
+A: Reimbursable expenses include business travel, client meals, office supplies, professional development courses, and work-from-home equipment. Personal expenses, alcohol without clients present, and entertainment are not reimbursable. All expenses must be submitted within 60 days of the purchase date. Check the expense policy document for category-specific limits.
+
+Q: How does the performance review system work?
+A: We conduct formal performance reviews twice per year in June and December. Employees complete a self-assessment, peers provide feedback, and managers write evaluations. Reviews are submitted through the Performance module in the portal. The system guides you through each section with prompts and examples. Your manager will schedule a face-to-face meeting to discuss the results.
+
+Q: Can I see my pay stubs and tax documents online?
+A: Yes, all pay stubs are available in the Payroll section under Documents. W-2 forms are posted by January 31st each year. You can download PDFs of any document. We recommend keeping digital copies for your records. If you need paper copies, contact HR.
+
+TECHNICAL TROUBLESHOOTING
+
+Q: I forgot my password. How do I reset it?
+A: Go to the login page and click "Forgot Password" below the login button. Enter your work email address, and we'll send a reset link. The link expires in 60 minutes. Follow the link to create a new password. Passwords must be at least 12 characters with uppercase, lowercase, numbers, and symbols. If you don't receive the email, check your spam folder or contact IT support.
+
+Q: Why can't I log into the mobile app?
+A: First, ensure you're using the latest version of the app from the App Store or Google Play. The app requires the same credentials as the web portal. If you recently changed your password, you may need to log out completely and log back in. Clear the app cache if issues persist. The app requires iOS 14+ or Android 9+.
+
+Q: The portal is loading slowly. What should I do?
+A: Slow performance is often caused by browser cache buildup. Try clearing your browser cache and cookies, then restart your browser. The portal works best on Chrome, Firefox, or Safari. Disable browser extensions temporarily to see if they're causing conflicts. If problems continue during business hours, it might be system maintenance - check the status page or contact IT.
+
+Q: Can I access the portal from my personal device?
+A: Yes, the portal is accessible from any device with internet access. However, you must use two-factor authentication when logging in from unrecognized devices. We recommend using the mobile app for phones and tablets for the best experience. Never save your password on shared or public computers.
+
+Q: How do I enable notifications?
+A: Go to Settings, then Notifications in the portal. You can customize which events trigger notifications and choose email, SMS, or push notification delivery. Common notifications include time-off request approvals, expense report status, upcoming performance reviews, and payroll processing confirmations.
+
+COMPANY POLICIES
+
+Q: What is the remote work policy?
+A: Eligible employees can work remotely up to three days per week after completing 90 days of employment. Remote days must be scheduled in advance with your manager. You're required to be available during core hours (10am-3pm in your timezone) and maintain productivity standards. The company provides a $500 stipend for home office setup.
+
+Q: What equipment does the company provide?
+A: All employees receive a laptop (Mac or Windows based on role), monitor, keyboard, and mouse. Additional equipment like headsets, webcams, or standing desks can be requested through the IT portal. You're responsible for equipment care and must return all items if you leave the company. Report damage or technical issues to IT immediately.
+
+Q: How do I request access to a system or tool?
+A: Submit an access request through the IT portal under "Request Access." Select the system, specify your business justification, and your manager will receive an approval request. Most access requests are processed within 2 business days. Some systems require security training completion before access is granted.
+
+Q: What is the dress code?
+A: We maintain a business casual dress code. This means no shorts, flip-flops, or overly casual attire, but suits and ties aren't necessary. When meeting with clients, business professional attire is expected. Remote employees should dress appropriately for video calls. Use your judgment and consider your schedule for the day.
+
+Q: Can I use my personal email for work communications?
+A: No, all work-related communications must use your company email address. This ensures security, proper record retention, and clear separation between personal and professional correspondence. Client information should never be sent to personal email addresses due to confidentiality and compliance requirements.
+
+TRAINING AND DEVELOPMENT
+
+Q: Does the company offer professional development?
+A: Yes, we encourage continuous learning. Full-time employees receive an annual professional development budget of $2,000 for courses, certifications, conferences, or workshops. Submit requests through the Learning & Development section in the portal. Your manager must approve the relevance to your role. Any certifications earned remain your property even if you leave the company.
+
+Q: How do I access training materials?
+A: All training materials are available in the Learning Hub within the HR portal. This includes onboarding videos, compliance training, software tutorials, and role-specific courses. New employees must complete mandatory compliance training within their first 30 days. The system tracks completion and sends reminders for required courses.
+
+Q: Are there opportunities for internal promotions?
+A: We prioritize internal candidates for open positions. All job openings are posted on the Careers page in the portal before being advertised externally. Employees can apply directly through the system. We also conduct quarterly talent reviews where managers identify high-potential team members for advancement opportunities.
+
+Q: How does the mentorship program work?
+A: Our mentorship program pairs new employees with experienced team members for their first six months. Mentors provide guidance on company culture, processes, and career development. You can request a specific mentor during onboarding, or HR will assign one based on role alignment. Monthly check-ins are recommended but flexible.
+
+PAYROLL AND COMPENSATION
+
+Q: When is payday?
+A: Employees are paid bi-weekly on alternating Fridays. If payday falls on a holiday, payment is processed the business day before. You can view the full pay schedule in the Payroll section. New employees receive their first paycheck on the next scheduled payday after completing one full pay period.
+
+Q: How do I set up direct deposit?
+A: Go to Payroll Settings and click "Direct Deposit." Enter your bank account and routing numbers. You can split deposits across multiple accounts or set up a fixed amount for savings. Changes take effect in the next pay period if submitted at least 3 business days before payday. Bring a voided check or bank letter to verify account details.
+
+Q: Can I see my total compensation breakdown?
+A: Yes, a full compensation statement is available in your profile. This includes base salary, bonus targets, company contributions to benefits (health insurance, 401k match, life insurance), estimated tax burden, and the value of perks like wellness stipends and professional development budget. This gives you a complete picture of your total rewards package.
+
+Q: How do salary increases work?
+A: Merit-based salary increases are reviewed annually during performance review cycles. Increases typically range from 2-8% based on performance ratings and market adjustments. Promotion-related increases are handled separately and can occur any time during the year. Managers discuss compensation during your review meeting.
+
+Q: What happens if there's an error in my paycheck?
+A: Contact HR immediately through the Help Desk in the portal. Provide details about the discrepancy with supporting documentation if available. Payroll errors are investigated and corrected within 3 business days. If an overpayment occurred, HR will work with you on a reasonable repayment schedule.
+
+TEAM AND MANAGER SUPPORT
+
+Q: How do I submit feedback about my manager?
+A: We conduct 360-degree feedback surveys twice per year where you can provide anonymous input on your manager's effectiveness. For urgent concerns, you can speak directly with HR or your skip-level manager. The portal also has a confidential feedback form accessible under Employee Relations.
+
+Q: How do I request a one-on-one meeting with my manager?
+A: Most managers hold regular one-on-ones, but you can request additional meetings through the calendar integration in the portal. Click your manager's name, select "Request Meeting," and choose available time slots. For urgent matters, you can also send a direct message through the internal communication tool.
+
+Q: What if I have a conflict with a coworker?
+A: Try to resolve conflicts directly through professional conversation first. If that doesn't work, your manager can facilitate a mediation discussion. For serious concerns involving harassment, discrimination, or policy violations, contact HR directly through the confidential reporting system. All complaints are investigated thoroughly and confidentially.
+
+Q: How do I change teams or departments?
+A: Internal transfer opportunities are posted in the Careers section. Talk to your current manager about your interest in exploring other roles - most managers support career growth. You'll need to have been in your current role for at least one year and be in good standing. The hiring manager and your current manager both need to approve transfers.
+
+SECURITY AND COMPLIANCE
+
+Q: What is our data security policy?
+A: All company data must be stored on approved systems with proper access controls. Never store sensitive information on personal devices or cloud storage. Use the company VPN when accessing systems remotely. Report any suspected security incidents to IT immediately. Employees complete annual security awareness training covering phishing, password security, and data handling.
+
+Q: How often do I need to change my password?
+A: Passwords must be changed every 90 days. The system will prompt you 7 days before expiration. New passwords cannot reuse any of your last 5 passwords. For security, use a unique password not used on other sites. Consider using the company-approved password manager to generate and store complex passwords.
+
+Q: What should I do if I receive a suspicious email?
+A: Do not click any links or download attachments from suspicious emails. Forward the email to security@company.com and delete it from your inbox. IT will analyze it and notify everyone if it's a widespread phishing attempt. We conduct simulated phishing tests quarterly to keep security awareness high.
+
+Q: Are there confidentiality agreements I need to sign?
+A: Yes, all employees sign a confidentiality and non-disclosure agreement during onboarding. This covers company intellectual property, client information, and internal business data. The agreement remains in effect even after you leave the company. You can review your signed agreements in the Documents section of your profile.
+
+ADDITIONAL FEATURES
+
+Q: How do I update my emergency contact information?
+A: Go to your profile and click "Emergency Contacts." You can add multiple contacts with phone numbers, email addresses, and relationship information. Keep this updated especially after major life changes. This information is only accessed in genuine emergencies and is kept confidential.
+
+Q: Can I access the portal while on leave?
+A: Yes, you maintain portal access during paid leave periods to check pay stubs, update benefits, or communicate with HR. During unpaid leave, access may be restricted depending on your leave type and duration. Contact HR before your leave starts to understand what access you'll have.
+
+Q: How do I report workplace safety concerns?
+A: Safety is a top priority. Report any hazards, accidents, or near-misses through the Safety Reports section in the portal. For immediate dangers, contact your manager and building security right away. All reports are investigated, and we conduct monthly safety reviews to address concerns and improve workplace conditions.
+
+Q: What is the employee referral program?
+A: Refer qualified candidates for open positions and earn bonuses when they're hired. Submit referrals through the Careers page. Bonuses range from $1,000 to $5,000 depending on the role level. The referred candidate must stay employed for 90 days before the bonus is paid. There's no limit to how many people you can refer.
+

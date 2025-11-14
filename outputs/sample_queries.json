@@ -1,0 +1,76 @@
+[
+  
+{
+    "user_question": "What is the PTO policy?",
+    "system_answer": "Based on the provided documentation, full-time employees receive 15 days of paid time off in their first year, which increases to 20 days after two years of service and 25 days after five years. PTO accrues monthly based on your tenure level. Part-time employees receive prorated PTO based on their scheduled hours. Unused PTO can be carried over up to 5 days to the following year, with any excess PTO being forfeited. Carried-over days must be used by March 31st of the following year.",
+    "chunks_related": [
+      {
+        "text": "Q: Can I carry over unused PTO to the next year?\nA: You can carry over up to 5 days of unused PTO to the following calendar year. Any PTO beyond 5 days will be forfeited, so we encourage employees to use their earned time off. Carried-over days must be used by March 31st of the following year.\n\nQ: What is the sick leave policy?\nA: All employees receive 10 sick days per year, separate from PTO. Sick leave is meant for personal illness, medical appointments, or caring for immediate family members who are ill. Unused sick days do not roll over and cannot be cashed out.\n\nQ: Do we have parental leave?\nA: Yes, we offer 12 weeks of paid parental leave for primary caregivers and 6 weeks for secondary caregivers. This applies to birth, adoption, or foster placement. Leave must be taken within the first year of the child's arrival. Additional unpaid leave may be available under FMLA.\n\nBENEFITS AND COMPENSATION",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "FREQUENTLY ASKED QUESTIONS - HR PORTAL\n\nTIME OFF AND LEAVE POLICIES\n\nQ: How much PTO do I get per year?\nA: Full-time employees receive 15 days of paid time off in their first year, increasing to 20 days after two years of service, and 25 days after five years. PTO accrues monthly based on your tenure level. Part-time employees receive prorated PTO based on their scheduled hours.\n\nQ: What is the process for requesting time off?\nA: Log into the HR portal and navigate to the Time Off section. Click \"Request Time Off\" and select your dates. Your manager will be notified automatically and typically responds within 48 hours. We recommend submitting requests at least two weeks in advance for better approval odds, though emergency requests are handled case-by-case.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "Q: How do I enable notifications?\nA: Go to Settings, then Notifications in the portal. You can customize which events trigger notifications and choose email, SMS, or push notification delivery. Common notifications include time-off request approvals, expense report status, upcoming performance reviews, and payroll processing confirmations.\n\nCOMPANY POLICIES\n\nQ: What is the remote work policy?\nA: Eligible employees can work remotely up to three days per week after completing 90 days of employment. Remote days must be scheduled in advance with your manager. You're required to be available during core hours (10am-3pm in your timezone) and maintain productivity standards. The company provides a $500 stipend for home office setup.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      }
+    ]
+  },
+  {
+    "user_question": "How do I submit an expense reports",
+    "system_answer": "To submit an expense report, you need to go to the Expenses tab, click New Expense Report, and enter each expense with the date, amount, category, and business purpose. Make sure to attach receipt photos or PDFs for any expense over $25. Once the report is complete, you can submit it. Reimbursements are processed within 10 business days and included in your next paycheck.",
+    "chunks_related": [
+      {
+        "text": "Q: How do I submit an expense report?\nA: Go to the Expenses tab, click New Expense Report, and enter each expense with the date, amount, category, and business purpose. Attach receipt photos or PDFs for any expense over $25. Submit the report when complete. Reimbursements are processed within 10 business days and included in your next paycheck.\n\nQ: What expenses are reimbursable?\nA: Reimbursable expenses include business travel, client meals, office supplies, professional development courses, and work-from-home equipment. Personal expenses, alcohol without clients present, and entertainment are not reimbursable. All expenses must be submitted within 60 days of the purchase date. Check the expense policy document for category-specific limits.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "Q: What happens if there's an error in my paycheck?\nA: Contact HR immediately through the Help Desk in the portal. Provide details about the discrepancy with supporting documentation if available. Payroll errors are investigated and corrected within 3 business days. If an overpayment occurred, HR will work with you on a reasonable repayment schedule.\n\nTEAM AND MANAGER SUPPORT\n\nQ: How do I submit feedback about my manager?\nA: We conduct 360-degree feedback surveys twice per year where you can provide anonymous input on your manager's effectiveness. For urgent concerns, you can speak directly with HR or your skip-level manager. The portal also has a confidential feedback form accessible under Employee Relations.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "Q: What equipment does the company provide?\nA: All employees receive a laptop (Mac or Windows based on role), monitor, keyboard, and mouse. Additional equipment like headsets, webcams, or standing desks can be requested through the IT portal. You're responsible for equipment care and must return all items if you leave the company. Report damage or technical issues to IT immediately.\n\nQ: How do I request access to a system or tool?\nA: Submit an access request through the IT portal under \"Request Access.\" Select the system, specify your business justification, and your manager will receive an approval request. Most access requests are processed within 2 business days. Some systems require security training completion before access is granted.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      }
+    ]
+  },
+  {
+    "user_question": "How does the time tracking feature work?",
+    "system_answer": "Based on the provided documentation, the time tracking feature works by opening the HR portal or mobile app and clicking the Clock In button at the start of your shift. The system verifies your location to ensure you are at an approved work site. You then click Clock Out when your shift is finished. If you forget to clock in or out, you can submit manual time entry corrections through the Timesheets section, which require manager approval.",
+    "chunks_related": [
+      {
+        "text": "Q: How do performance bonuses work?\nA: Eligible employees can earn annual performance bonuses ranging from 0% to 20% of base salary, depending on individual performance ratings and company goal achievement. Bonuses are typically paid in March following the performance year. You must be employed at the time of payout to receive the bonus.\n\nPLATFORM FEATURES AND USAGE\n\nQ: How do I clock in and out for time tracking?\nA: Open the HR portal or mobile app and click the Clock In button at the start of your shift. The system uses your device location to verify you're at an approved work site. Click Clock Out when finished. If you forget, you can submit a manual time entry correction through the Timesheets section, which requires manager approval.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "Q: How do I enable notifications?\nA: Go to Settings, then Notifications in the portal. You can customize which events trigger notifications and choose email, SMS, or push notification delivery. Common notifications include time-off request approvals, expense report status, upcoming performance reviews, and payroll processing confirmations.\n\nCOMPANY POLICIES\n\nQ: What is the remote work policy?\nA: Eligible employees can work remotely up to three days per week after completing 90 days of employment. Remote days must be scheduled in advance with your manager. You're required to be available during core hours (10am-3pm in your timezone) and maintain productivity standards. The company provides a $500 stipend for home office setup.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      },
+      {
+        "text": "FREQUENTLY ASKED QUESTIONS - HR PORTAL\n\nTIME OFF AND LEAVE POLICIES\n\nQ: How much PTO do I get per year?\nA: Full-time employees receive 15 days of paid time off in their first year, increasing to 20 days after two years of service, and 25 days after five years. PTO accrues monthly based on your tenure level. Part-time employees receive prorated PTO based on their scheduled hours.\n\nQ: What is the process for requesting time off?\nA: Log into the HR portal and navigate to the Time Off section. Click \"Request Time Off\" and select your dates. Your manager will be notified automatically and typically responds within 48 hours. We recommend submitting requests at least two weeks in advance for better approval odds, though emergency requests are handled case-by-case.",
+        "metadata": {
+          "source": "data/faq_document.txt"
+        }
+      }
+    ]
+  }
+]
+
