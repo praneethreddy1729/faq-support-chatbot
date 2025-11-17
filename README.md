@@ -58,7 +58,7 @@ Edit the `.env` file and add your API credentials:
 OPENAI_API_KEY=your-openrouter-api-key
 OPENAI_BASE_URL=https://openrouter.ai/api/v1
 EMBEDDING_MODEL=text-embedding-3-small
-LLM_MODEL=/gpt-3.5-turbo
+LLM_MODEL=gpt-3.5-turbo
 ```
 
 Get your OpenRouter API key from: https://openrouter.ai/keys
